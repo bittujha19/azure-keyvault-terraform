@@ -1,0 +1,10 @@
+[
+        {
+            "object_id": "object-id-alpha-numeric",
+            "permissions": "viewer"
+        },
+        {
+            "object_id": "object-id-alpha-numeric",
+            "permissions": "editor"
+        }
+]
